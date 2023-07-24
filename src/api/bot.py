@@ -4,8 +4,8 @@ from instagrapi.exceptions import LoginRequired
 import logging
 import os
 
-UserName = "18070208174"
-PassWd = "Wjx31415926"
+UserName = ""
+PassWd = "P@$$W0RD"
 Proxy = "http://127.0.0.1:10809"
 Locale = "en_US"
 IG_CREDENTIAL_PATH = ".\ig_settings.json"
